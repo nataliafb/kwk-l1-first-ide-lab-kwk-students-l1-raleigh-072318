@@ -1,4 +1,4 @@
-
+puts "Hi, Queen"
 
   # Your First IDE Lab
 
