@@ -1,0 +1,2 @@
+puts "Natalia is here!"
+input = gets 
